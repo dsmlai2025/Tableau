@@ -14,10 +14,10 @@
 * The dashboard presents key visualizations including a geographical distribution map of movies by country, a ranked bar chart of the top 10 genres, and rating distributions for different movie and TV show titles. Additional charts depict the number of movies and shows released by year, allowing users to track growth and trends interactively through filter controls.
 
 ## Dashboard
-![Movies Dashboard]()
+![Movies Dashboard](https://github.com/dsmlai2025/Tableau/blob/main/Netflix/Netflix_Dashboard.png)
 
 ## Dashboard Video
-<img src="" alt="Netflix Dashboard" width="800" />
+<img src="https://github.com/dsmlai2025/Tableau/blob/main/Netflix/NetflixDashboard.gif" alt="Netflix Dashboard" width="800" />
 
 ### Actionable Insights
 
