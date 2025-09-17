@@ -17,8 +17,7 @@ The HR Analytics Dashboard project leverages Tableau to visualize and analyze ke
 ![HR Analytics Dashboard](https://github.com/dsmlai2025/Tableau/blob/main/HR%20Analytics%20Dashboard/HR%20Analytics%20Dashboard.png)
 
 ## Dashboard Video
-[![Watch the video](https://github.com/dsmlai2025/Tableau/blob/main/HR%20Analytics%20Dashboard/HR%20Analytics%20Dashboard.png)](https://github.com/dsmlai2025/Tableau/blob/main/HR%20Analytics%20Dashboard/HR%20Analytics%20Dashboard.mp4)
-
+<img src="https://github.com/dsmlai2025/Tableau/blob/main/HR%20Analytics%20Dashboard/HR%20Analytics%20Dashboard.gif" alt="Dashboard" width="800" />
 
 ### Actionable Insights
 
