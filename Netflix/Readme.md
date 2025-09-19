@@ -4,6 +4,7 @@
 * The Netflix Movie Dashboard project visualizes diverse data from Netflix's movie and TV show catalog to provide insights on content distribution, genre popularity, ratings, and temporal trends. It enables users to explore movies by country, analyze the top 10 genres, and observe release patterns over the years, delivering a comprehensive view of Netflix's content landscape.
 
 ## Tools Used
+![Tableau Badge](https://img.shields.io/badge/Tableau-Dashboard-blue?logo=tableau)
 
 ### Data Cleaning Steps
 
