@@ -4,6 +4,7 @@
 The HR Analytics Dashboard project leverages Tableau to visualize and analyze key human resource metrics, enabling data-driven decision making. It provides comprehensive insights into employee turnover, recruitment, performance, and engagement to support strategic HR initiatives.
 
 ## Tools Used
+![Tableau Badge](https://img.shields.io/badge/Tableau-Dashboard-blue?logo=tableau)
 
 ### Data Cleaning Steps
 
